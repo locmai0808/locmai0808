@@ -22,6 +22,7 @@ Check out my [portfolio](https://lnmai.com) and learn more about my extension [M
 </a>  
 <a href="https://github.com/locmai0808">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=locmai0808&repo=Facebook-Access-Token&theme=gruvbox" />
-</a>  
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/locmai0808/count.svg" />
+</a>
+
+Visitor count<br>
+<img src="https://profile-counter.glitch.me/locmai0808/count.svg" />
