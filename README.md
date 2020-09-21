@@ -7,7 +7,7 @@ Check out my [portfolio](https://lnmai.com) and learn more about my extension [M
 
 #  Multiple Tools for Facebook
 
-<img src="https://img.shields.io/chrome-web-store/v/eojdckfcadamkapabechhbnkleligand.svg?label=Version&amp;colorB=fd5d93&amp;style=for-the-badge&amp;logo=google-chrome" alt="Multiple Tools for Facebook by Loc Mai"> <img src="https://img.shields.io/chrome-web-store/rating/eojdckfcadamkapabechhbnkleligand.svg?label=Rating&amp;colorB=1d8cf8&amp;style=for-the-badge&amp;logo=google-chrome" alt="Multiple Tools for Facebook by Loc Mai"> <img src="https://img.shields.io/chrome-web-store/users/eojdckfcadamkapabechhbnkleligand.svg?label=Users&amp;colorB=e14eca&amp;style=for-the-badge&amp;logo=google-chrome" alt="Multiple Tools for Facebook by Loc Mai">
+<img src="https://img.shields.io/chrome-web-store/v/eojdckfcadamkapabechhbnkleligand.svg?label=Version&amp;colorB=fd5d93&amp;style=for-the-badge&amp;logo=google-chrome" alt="Multiple Tools for Facebook by Loc Mai"> <img src="https://img.shields.io/chrome-web-store/users/eojdckfcadamkapabechhbnkleligand.svg?label=Users&amp;colorB=e14eca&amp;style=for-the-badge&amp;logo=google-chrome" alt="Multiple Tools for Facebook by Loc Mai">
 
 # Github Stats
 
