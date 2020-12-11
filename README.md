@@ -1,9 +1,13 @@
 
 ![https://lnmai.com](https://github.com/locmai0808/locmai0808/blob/master/locmai.gif?raw=true)
 
+
 Hi, I'm Loc. I am a Software Engineer from the Bay Area and the creator of [Multiple Tools for Facebook](https://chrome.google.com/webstore/detail/multiple-tools-for-facebo/eojdckfcadamkapabechhbnkleligand) (Google Chrome) extension that currently has over 365,000 world-wide users with over 700 5-stars reviews. I work at [Nom Nom](https://trynom.com/king) and I feed my pets Nom Nom! 
 
 Check out my [portfolio](https://lnmai.com) and learn more about my extension [MTFB](https://mtfb.lnmai.com)
+
+
+![](https://komarev.com/ghpvc/?username=locmai0808)
 
 #  Multiple Tools for Facebook
 
@@ -24,5 +28,3 @@ Check out my [portfolio](https://lnmai.com) and learn more about my extension [M
 <a href="https://github.com/locmai0808">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=locmai0808&repo=Facebook-Access-Token&theme=gruvbox" />
 </a>
-
-![](https://komarev.com/ghpvc/?locmai0808&style=flat-square&color=orange)
