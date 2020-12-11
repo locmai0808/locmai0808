@@ -25,5 +25,4 @@ Check out my [portfolio](https://lnmai.com) and learn more about my extension [M
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=locmai0808&repo=Facebook-Access-Token&theme=gruvbox" />
 </a>
 
-# Visitor Count
-<img src="https://profile-counter.glitch.me/locmai0808/count.svg" />
+![](https://komarev.com/ghpvc/?locmai0808&style=flat-square&color=orange)
